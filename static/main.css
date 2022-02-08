@@ -4,8 +4,11 @@
     font-family: sans-serif;
 }
 h1 { 
-    margin: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     padding: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
     text-align: center;
 
 }
