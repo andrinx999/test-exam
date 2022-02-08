@@ -13,7 +13,8 @@ h1 {
 
 }
 h2 {margin-left: 200px;}
-p  {margin-left: 200px;}
+p  {margin-left: 200px;
+margin-bottom: 50px;}
 ul
      {padding-right: 50px;
         padding-top: 15px;
@@ -23,7 +24,7 @@ ul
         margin-left: 10px;
 
 }
-.content{top: 50px;}
+
 body {
     background: #eeeeee;
 }
