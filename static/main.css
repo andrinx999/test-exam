@@ -14,6 +14,13 @@ h1 {
 }
 h2 {margin-left: 200px;}
 p  {margin-left: 200px;}
+.nav-link
+     {padding-right: 50px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-left: 10px;
+
+}
 body {
     background: #eeeeee;
 }
