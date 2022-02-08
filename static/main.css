@@ -13,6 +13,7 @@ h1 {
 
 }
 h2 {margin-left: 200px;
+    position: fixed;
     margin-bottom: 800px;
 }
 p  {margin-left: 200px;
