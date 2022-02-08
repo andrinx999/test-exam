@@ -14,7 +14,7 @@ h1 {
 }
 h2 {margin-left: 200px;}
 p  {margin-left: 200px;
-    position: fixed;
+    position: absolute;
     margin-bottom: 800px;
 }
 ul
