@@ -12,9 +12,11 @@ h1 {
     text-align: center;
 
 }
-h2 {margin-left: 200px;}
+h2 {margin-left: 200px;
+    margin-bottom: 800px;
+}
 p  {margin-left: 200px;
-    position: absolute;
+    position: fixed;
     margin-bottom: 800px;
 }
 ul
